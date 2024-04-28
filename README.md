@@ -17,7 +17,7 @@ Ready to blend my passions and skills to code a brighter, fairer future! ðŸ’¥ðŸ’
 ### Tech Stack
 <img src="https://github.com/Eskeminha/Eskeminha/assets/91256149/c4a52e18-f173-4622-8faf-df050148eaae" alt="Assembly" width="50">
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,css,django,docker,dotnet,git,html,java,kotlin,lua,mysql,php,postgres,py,swift&perline=6&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,cs,cpp,css,django,docker,dotnet,git,html,java,js,kotlin,lua,mysql,php,postgres,py,swift&perline=6&theme=light)](https://skillicons.dev)
 
 
 ### Known Enviroments
